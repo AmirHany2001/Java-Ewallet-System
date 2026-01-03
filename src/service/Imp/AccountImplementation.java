@@ -2,13 +2,11 @@ package service.Imp;
 
 import model.Account;
 import model.History;
-import model.UI.UserUI;
 import service.AccountService;
 import model.EWallet;
 
 
 import java.util.List;
-import java.util.Scanner;
 import java.time.LocalTime;
 import java.time.LocalDate;
 

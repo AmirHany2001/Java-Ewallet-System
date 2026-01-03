@@ -1,4 +1,4 @@
-package model.UI;
+package UI;
 
 import model.Account;
 import model.History;

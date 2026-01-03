@@ -2,17 +2,14 @@ package service.Imp;
 
 import model.Account;
 import model.History;
-import model.UI.AdminUI;
-import model.UI.ApplicationUI;
+import UI.AdminUI;
+import UI.ApplicationUI;
 import service.ApplicationService;
 import model.EWallet;
-import model.UI.UserUI;
+import UI.UserUI;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
-import java.util.InputMismatchException;
-import java.util.Scanner;
-
 
 
 public class ApplicationImplementation implements ApplicationService {

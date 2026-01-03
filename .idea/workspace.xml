@@ -5,34 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af27705c-2f9e-47f9-b761-737a4e14abab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/OOP-Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/model/Account$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/model/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/model/EWallet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/model/History$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/model/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/service/AccountService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/service/AccountValidationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/service/ApplicationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/service/Imp/AccountImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/service/Imp/AccountValidationImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/out/production/OOP-Project/service/Imp/ApplicationImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/Main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/model/EWallet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/model/History.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/service/AccountService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/service/AccountValidationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/service/ApplicationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/service/Imp/AccountImplementation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/service/Imp/AccountValidationImplementation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/src/service/Imp/ApplicationImplementation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Ewallet System/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/model/UI/AdminUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/model/UI/ApplicationUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/model/UI/UserUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/service/ApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/service/ApplicationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/AccountImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/AccountImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/ApplicationImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/ApplicationImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/UI/AdminUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/AdminUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/UI/ApplicationUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/ApplicationUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/UI/UserUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/UserUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ApplicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Imp/AccountImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Imp/AccountImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Imp/ApplicationImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Imp/ApplicationImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/Java Ewallet System/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/Java Ewallet System/.idea/.gitignore" beforeDir="false" />
@@ -75,20 +61,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/godsa/Desktop/Java-Ewallet-System",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/godsa/Desktop/Java-Ewallet-System&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

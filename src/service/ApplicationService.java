@@ -1,8 +1,7 @@
 package service;
 
 import model.Account;
-import model.UI.ApplicationUI;
-import service.Imp.ApplicationImplementation;
+import UI.ApplicationUI;
 
 public interface ApplicationService {
      boolean startApplicationFeatures(Account account , int choice) ;

@@ -1,4 +1,4 @@
-package model.UI;
+package UI;
 
 import service.Imp.AccountImplementation;
 
