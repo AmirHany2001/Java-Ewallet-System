@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af27705c-2f9e-47f9-b761-737a4e14abab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/model/UI/AdminUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/model/UI/ApplicationUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/model/UI/UserUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/service/ApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/service/ApplicationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/AccountImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/AccountImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/ApplicationImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-Project/service/Imp/ApplicationImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/UI/AdminUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/AdminUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/UI/ApplicationUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/ApplicationUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/UI/UserUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/UserUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/ApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ApplicationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/Imp/AccountImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Imp/AccountImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/Imp/ApplicationImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Imp/ApplicationImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java Ewallet System2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/Java Ewallet System/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../projects/Java Ewallet System/.idea/.gitignore" beforeDir="false" />
